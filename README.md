@@ -5,6 +5,8 @@ Currently, I'm practicing Dart 🔥 in pair with Flutter and Angel Server Framew
 
 In my free time, I'm working on the tutorial video series about Design Patterns in the Ukrainian language.
 
+Here you can take a look on my older packages on Python: [PyPi](https://pypi.org/user/MitryP/).
+
 Finally, here you can find my implementations of some algorithms from Algs4 Princeton University course in Java: [Matrix Percolation](https://github.com/mitryp/Algs4MatrixPercolation), [Pattern Matching](https://github.com/mitryp/Algs4PatternMatching), [Collision System](https://github.com/mitryp/Algs4CollisionSystem).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitryp&layout=compact&theme=dark&custom_title=My%20Most%20Used%20Languages)
