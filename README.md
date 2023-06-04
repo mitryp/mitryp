@@ -9,4 +9,4 @@ Here you can take a look on my older packages on Python: [PyPi](https://pypi.org
 
 Finally, here you can find my implementations of some algorithms from Algs4 Princeton University course in Java: [Matrix Percolation](https://github.com/mitryp/Algs4MatrixPercolation), [Pattern Matching](https://github.com/mitryp/Algs4PatternMatching), [Collision System](https://github.com/mitryp/Algs4CollisionSystem).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitryp&layout=compact&theme=dark&custom_title=My%20Most%20Used%20Languages)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitryp&layout=compact&theme=dark&custom_title=My%20Most%20Used%20Languages&hide=c%2B%2B,html,css,cmake)
