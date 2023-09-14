@@ -1,6 +1,10 @@
 # 💫 About Me:
-I am NaUKMA Software Engineering student and Flutter Developer from Kyiv, Ukraine.<br><br>
-🔭 I’m currently working on MOV - a motion reminder app for remote workers<br>🌱 I’m currently learning advanced Flutter development<br>💬 Ask me about Flutter, Dart, frontend, backend<br>⚡ Fun fact: I've started using Design Patterns not knowing about them at all
+### I am NaUKMA Software Engineering student and Flutter Developer from Kyiv, Ukraine and I'm...<br>
+🔭 currently working on MOV - a motion reminder app for remote workers<br>
+🌱 learning advanced Flutter development<br>
+💙 developing and maintaining Dart packages at [pub.dev](https://pub.dev/publishers/mitryp.com.ua)<br><br>
+💬 Ask me about Flutter, Dart, frontend, backend<br>
+⚡ Fun fact: I'd started using Design Patterns not knowing about them at all
 
 
 # 💻 Tech Stack:
