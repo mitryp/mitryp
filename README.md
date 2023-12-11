@@ -1,10 +1,20 @@
 # 💫 About Me:
-### I am NaUKMA Software Engineering student and Flutter Developer from Kyiv, Ukraine and I'm...<br>
-🔭 currently working on MOV - a motion reminder app for remote workers<br>
+### I am a Flutter Developer and NaUKMA Software Engineering student from Kyiv, Ukraine and I'm...<br>
+🔭 currently working on Anthill - an open-source modular charity management system<br>
 🌱 learning advanced Flutter development<br>
 💙 developing and maintaining Dart packages at [pub.dev](https://pub.dev/publishers/mitryp.com.ua)<br><br>
 💬 Ask me about Flutter, Dart, frontend, backend<br>
 ⚡ Fun fact: I'd started using Design Patterns not knowing about them at all
+
+# My Apps
+I value your time, so I develop distraction-free applications to save it:
+
+## MOV - Motion Reminder
+[![MOV](https://play-lh.googleusercontent.com/vT52qEALK0ndJZ3ELdFYs6HiFwM2WJlsLjF7HxcFwrio-vK8wfp5kqZl0KLpM0z8tWQ=w128-h960-rw)](https://play.google.com/store/apps/details?id=ua.com.mitryp.mov)
+<a href='https://play.google.com/store/apps/details?id=ua.com.mitryp.mov&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width=128/></a>
+
+**MOV** is an app for people working from home. It will remind you to take your breaks throughout your working days.
+You will be able to set a separate schedule for every day of the week and receive notifications when it's time to take a break or get back to work.
 
 
 # 💻 Tech Stack:
