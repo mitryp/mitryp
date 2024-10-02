@@ -1,5 +1,5 @@
 # 💫 About Me:
-### I am a Flutter Developer and NaUKMA Software Engineering student from Kyiv, Ukraine and I'm...<br>
+### I am a Flutter Developer and Hull University Software Engineering student from Kyiv, Ukraine and I'm...<br>
 🔭 currently working on Anthill - an open-source modular charity management system<br>
 🌱 learning advanced Flutter development<br>
 💙 developing and maintaining Dart packages at [pub.dev](https://pub.dev/publishers/mitryp.com.ua)<br><br>
