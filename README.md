@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### I am a Flutter Developer and Hull University Software Engineering student from Kyiv, Ukraine and I'm...<br>
-🌱 learning advanced Flutter development<br>
+🌱 practicing advanced Flutter development<br>
 💙 developing and maintaining Dart packages at [pub.dev](https://pub.dev/publishers/mitryp.com.ua)<br><br>
 💬 Ask me about Flutter, Dart, frontend, backend<br>
 ⚡ Fun fact: I'd started using Design Patterns not knowing about them at all
